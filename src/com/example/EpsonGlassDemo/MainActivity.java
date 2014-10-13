@@ -25,6 +25,7 @@ import java.util.List;
 /**
  * Created by Balázs on 2014.09.16..
   Helloo
+  Szia OctoCat
 
  */
 public class MainActivity extends Activity {

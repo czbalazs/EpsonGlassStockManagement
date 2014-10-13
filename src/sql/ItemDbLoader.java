@@ -120,6 +120,8 @@ public class ItemDbLoader extends DbLoader {
         return mDb.rawQuery(query, null);
     }
 
+    //This is a comment
+
     public Item getArticleByCursor(Cursor c) {
         c.moveToFirst();
         return new Item(
