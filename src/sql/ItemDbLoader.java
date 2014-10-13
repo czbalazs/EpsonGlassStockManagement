@@ -121,6 +121,8 @@ public class ItemDbLoader extends DbLoader {
     }
 
     //This is a comment
+    //This is another comment
+
 
     public Item getArticleByCursor(Cursor c) {
         c.moveToFirst();
