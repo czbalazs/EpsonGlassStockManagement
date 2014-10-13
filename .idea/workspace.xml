@@ -39,7 +39,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="486d98c2-5623-4f16-b088-2ab12e185dc4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/res/layout/activity_main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EpsonGlassDemo.iws" />
@@ -555,7 +554,11 @@
       <created>1413200899061</created>
       <updated>1413200899061</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".gitignore file added">
+      <created>1413201495684</created>
+      <updated>1413201495684</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
