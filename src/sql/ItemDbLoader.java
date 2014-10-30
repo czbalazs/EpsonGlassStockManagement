@@ -122,6 +122,7 @@ public class ItemDbLoader extends DbLoader {
 
     //This is a comment
     //This is another comment
+    //Do we need .idea ignore?
 
 
     public Item getArticleByCursor(Cursor c) {
